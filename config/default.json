@@ -1,0 +1,11 @@
+{
+    "port": 3001,
+    "database": {
+      "mysql": {
+        "host": "localhost",
+        "username": "root",
+        "password": "",
+        "dbName": "ShoppingCart"
+      }
+    }
+}
